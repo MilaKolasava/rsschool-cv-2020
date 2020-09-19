@@ -25,4 +25,7 @@ Specialty: engineer for the automation of production processes and production.
 * English - B1 - Intermediate
 * Russian - C2 - Perfect
 
+*Personal qualities:*
+Responsibility, dedication, high efficiency, reliability, desire to develop, easily adapt to new information systems, ability to work in a team. <br/> Lead a healthy lifestyle.
+
 
