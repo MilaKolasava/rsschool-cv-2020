@@ -10,7 +10,10 @@
 
 *Objective:* Extremely motivated for career change goal. 
 
-*Education:* **2007-2012** - [Belarusian State Technological University](http://www.belstu.by/)
+*Education:* **2007-2012** - [Belarusian State Technological University](http://www.belstu.by/) <br/>
+Faculty: Chemical Technology and Engineering, <br/>
+Department: Automation of Production Processes and Electrical Engineering, <br/>
+Specialty: engineer for the automation of production processes and production.
 
 *Work experience:*
 * **08.2012-07.2014** The Joint Stock Company "The Grodno Scientific-Research and Design Institute for Nitrogen Industry and Organic Synthesis Products". Design engineer in the estimate department 
